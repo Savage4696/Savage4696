@@ -4,7 +4,7 @@
 
 I build things that start as ideas and end up working.
 
-I'm a founder and engineer exploring the intersection of **AI, software, markets, automation, and real-world problems. I enjoy taking a problem that doesn't have an obvious answer, figuring out how it could work, and turning it into something people can actually use.
+I'm a founder and engineer exploring the intersection of AI, software, markets, automation, and real-world problems. I enjoy taking a problem that doesn't have an obvious answer, figuring out how it could work, and turning it into something people can actually use.
 
 I don't just want to learn technology I want to build with it.
 
