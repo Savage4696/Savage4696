@@ -1,54 +1,110 @@
-- 👋 Hi, I’m @Savage4696
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey, I'm Saikrishna 👋
 
-<!---
-Savage4696/Savage4696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I've Worked On Kali Linux Build.
-## Kali-ARM Build-Script
+### Founder. Builder. Engineer.
 
-Kali Linux ARM build-scripts.
+I build things that start as ideas and end up working.
 
-These are the same build scripts that we use to generate the pre-generated official Kali Linux ARM images, found here: https://www.kali.org/get-kali/
+I'm a founder and engineer exploring the intersection of **AI, software, markets, automation, and real-world problems**. I enjoy taking a problem that doesn't have an obvious answer, figuring out how it could work, and turning it into something people can actually use.
 
-There are additional scripts included in this repository, supporting more devices, but these will need to be built in order for them to be used.
+I don't just want to learn technology — I want to build with it.
 
-For more information, please see: https://www.kali.org/docs/arm/
+---
 
-- - -
+## 🚀 What I'm Building
 
-### Building
+### 🤖 RCV
 
-- These scripts are tested on Kali Linux arm64, x64 and x86 installations only _(I **recommend x64**)_
-- Make sure you run the `./common.d/build_deps.sh` script before trying to build an image, as this installs all required dependencies
-- You will need at **least 8GB of RAM or use SWAP file**
+AI-powered receiving intelligence
 
-An example workflow to build a _[Raspberry Pi 4](https://www.kali.org/docs/arm/raspberry-pi-4/) Kali Linux image_ would look like:
+RCV uses computer vision, evidence, and deterministic business rules to inspect incoming shipments, identify discrepancies, and turn visual information into auditable receiving decisions.
 
+AI observes. Evidence supports. Rules decide.
+
+### 📈 MarketSage
+
+AI × Markets × Intelligence
+
+Exploring how AI and data can transform market information into useful insights, analysis, and decision-support tools.
+
+### 🔄 Relayy
+
+Software × Automation × Workflows
+
+Building tools around communication, workflows, and moving information between people and systems more intelligently.
+
+### 🏥 Hospital Management System
+
+Software for real-world operations
+
+A full-stack system designed around healthcare administration and operational workflows — turning complex processes into usable software.
+
+---
+
+# What I'm Into
+
+```text
+AI / ML              ████████████████████
+Software Engineering ███████████████████
+Product Building     ████████████████████
+Automation            ██████████████████
+Markets & Finance     ███████████████
+Systems & Linux       █████████████
 ```
-cd ~/
-git clone https://gitlab.com/kalilinux/build-scripts/kali-arm
-cd ~/kali-arm/
-sudo ./common.d/build_deps.sh
-sudo ./rpi.sh
-```
 
-- Depending on your system hardware & network connectivity, will depend on how long it will take to build _(4 core CPU, 8GB RAM, SSD inside a VM takes using a [local repo](https://www.kali.org/docs/community/setting-up-a-kali-linux-mirror/) about 100 minutes per script)_
-- On x64 systems, after the script finishes running, you will have an image files located in `~/kali-arm/images/` called `kali-linux-2021.3-rpi-armhf.img.xz`
-- On x86 systems, as they do not have enough RAM to compress the image, after the script finishes running, you will have an image file located in `~/kali-arm/images/` called `kali-linux-2021.3-rpi-armhf.img`
-  - _Should you want to try and shrink the file to make it easier to distribute, you will need to use **your own preferred compression**_.
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 🧠 LLMs & AI-powered applications
+* ⚙️ Intelligent automation
+* 📊 Data & quantitative problem solving
+* 📈 Markets & financial technology
+* 🌐 Full-stack product development
+* 🐧 Linux & systems
+* 🚀 Startups & product building
 
-- - -
+---
 
-### Help
+## 🛠️ My Philosophy
 
-On any build script, add `--help`. Example:
+I like building at the intersection of curiosity and execution.
 
-```
-$ ./rpi.sh --help
- Usage commands:
-# Architectures (arm64, armel, armhf)
+Think → Build → Break → Learn → Rebuild → Ship
+
+I care less about building technology for the sake of technology and more about finding where technology can create real leverage.
+
+For me, the most interesting question isn't:
+
+“Can we build this?
+
+It's:
+
+“What happens if we actually do?”
+
+---
+
+# Currently Exploring
+
+* AI agents & intelligent workflows
+* Applied computer vision
+* LLM-powered products
+* AI × Finance
+* AI × Automation
+* Product engineering
+* Startup ideas & experimentation
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savage4696\&show_icons=true\&hide_border=true\&theme=transparent)
+
+---
+
+## 🤝 Let's Build
+
+I'm always interested in ambitious ideas, interesting problems, hackathons, startups, collaborations, and people who want to build something that matters.
+
+If you're building something interesting, **let's talk.
+
+---
+
+Build things. Break assumptions. Ship what matters.
