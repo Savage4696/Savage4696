@@ -1,12 +1,12 @@
-# Hey, I'm Saikrishna 👋
+# Hi, I'm Saikrishna 👋
 
 ### Founder. Builder. Engineer.
 
 I build things that start as ideas and end up working.
 
-I'm a founder and engineer exploring the intersection of **AI, software, markets, automation, and real-world problems**. I enjoy taking a problem that doesn't have an obvious answer, figuring out how it could work, and turning it into something people can actually use.
+I'm a founder and engineer exploring the intersection of **AI, software, markets, automation, and real-world problems. I enjoy taking a problem that doesn't have an obvious answer, figuring out how it could work, and turning it into something people can actually use.
 
-I don't just want to learn technology — I want to build with it.
+I don't just want to learn technology I want to build with it.
 
 ---
 
@@ -36,7 +36,7 @@ Building tools around communication, workflows, and moving information between p
 
 Software for real-world operations
 
-A full-stack system designed around healthcare administration and operational workflows — turning complex processes into usable software.
+A full-stack system designed around healthcare administration and operational workflows turning complex processes into usable software.
 
 ---
 
@@ -63,7 +63,7 @@ Systems & Linux       █████████████
 
 ---
 
-## 🛠️ My Philosophy
+# My Philosophy
 
 I like building at the intersection of curiosity and execution.
 
@@ -91,19 +91,11 @@ It's:
 * Product engineering
 * Startup ideas & experimentation
 
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savage4696\&show_icons=true\&hide_border=true\&theme=transparent)
-
----
-
 ## 🤝 Let's Build
 
 I'm always interested in ambitious ideas, interesting problems, hackathons, startups, collaborations, and people who want to build something that matters.
 
-If you're building something interesting, **let's talk.
+If you're building something interesting, let's talk.
 
 ---
 
