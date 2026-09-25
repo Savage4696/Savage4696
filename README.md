@@ -1,102 +1,110 @@
-# Hi, I'm Saikrishna 👋
+# Saikrishna — Founder · Builder · Engineer
 
-### Founder. Builder. Engineer.
+I build products at the intersection of **AI, software, markets, and real-world operations**.
 
-I build things that start as ideas and end up working.
+I like taking messy problems, turning them into systems, and shipping working software — from AI agents and computer vision to automation, data, and full-stack products.
 
-I'm a founder and engineer exploring the intersection of AI, software, markets, automation, and real-world problems. I enjoy taking a problem that doesn't have an obvious answer, figuring out how it could work, and turning it into something people can actually use.
-
-I don't just want to learn technology I want to build with it.
+> **Think → Build → Break → Learn → Rebuild → Ship.**
 
 ---
 
 ## 🚀 What I'm Building
 
-### 🤖 RCV
+### 🧠 [RCV — AI Receiving Manager](https://github.com/Savage4696/RCV)
 
-AI-powered receiving intelligence
+AI-powered inbound inspection for receiving operations.
 
-RCV uses computer vision, evidence, and deterministic business rules to inspect incoming shipments, identify discrepancies, and turn visual information into auditable receiving decisions.
+RCV combines **computer vision, evidence, deterministic rules, and AI reasoning** to inspect shipments, detect discrepancies, and produce auditable decisions.
 
-AI observes. Evidence supports. Rules decide.
+**Core idea:** AI observes. Evidence supports. Rules decide.
+
+- Computer vision inspection
+- Evidence-backed PASS / FAIL / UNCERTAIN decisions
+- Deterministic rules engine
+- Tamper-evident inspection records
+- Benchmark scenarios + automated tests
+
+---
+
+### ⚡ [RELAY — Persistent Work Context](https://github.com/Savage4696/relayy)
+
+AI that follows work context across **Slack and the browser**.
+
+RELAY extracts commitments from conversations, understands active browser context, captures evidence, reasons over it, and turns scattered information into actionable work state.
+
+**Core idea:** Your work moves. Your context comes with it.
+
+- Slack → structured work state
+- Browser context + evidence capture
+- AI reasoning
+- Context relevance matching
+- Automated Slack updates
+- TypeScript · React · Node · PostgreSQL / Supabase
+
+---
 
 ### 📈 MarketSage
 
-AI × Markets × Intelligence
+Exploring the intersection of **AI × markets × intelligence** — turning market data and information into useful analysis and decision-support software.
 
-Exploring how AI and data can transform market information into useful insights, analysis, and decision-support tools.
 
-### 🔄 Relayy
+### 🏥 Healthcare & Operations
 
-Software × Automation × Workflows
+Building software around real operational problems — including hospital management, workflow automation, and systems that turn complex processes into usable products.
 
-Building tools around communication, workflows, and moving information between people and systems more intelligently.
-
-### 🏥 Hospital Management System
-
-Software for real-world operations
-
-A full-stack system designed around healthcare administration and operational workflows turning complex processes into usable software.
 
 ---
 
-# What I'm Into
+## 🛠️ What I Build With
 
-```text
-AI / ML              ████████████████████
-Software Engineering ███████████████████
-Product Building     ████████████████████
-Automation            ██████████████████
-Markets & Finance     ███████████████
-Systems & Linux       █████████████
-```
+**AI / ML**
+`Python` · `LLMs` · `Computer Vision` · `AI Agents` · `NLP` · `XGBoost`
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 👁️ Computer Vision
-* 🧠 LLMs & AI-powered applications
-* ⚙️ Intelligent automation
-* 📊 Data & quantitative problem solving
-* 📈 Markets & financial technology
-* 🌐 Full-stack product development
-* 🐧 Linux & systems
-* 🚀 Startups & product building
+**Product Engineering**
+`TypeScript` · `JavaScript` · `React` · `Node.js` · `Express` · `REST APIs`
+
+**Data & Systems**
+`PostgreSQL` · `Supabase` · `SQLite` · `Pandas` · `Linux` · `Git`
+
+**Product Thinking**
+`Prototyping` · `Automation` · `System Design` · `Quantitative Problem Solving` · `Rapid Experimentation`
 
 ---
 
-# My Philosophy
+## 🧩 How I Think
 
-I like building at the intersection of curiosity and execution.
+I’m less interested in building technology just because it is possible.
 
-Think → Build → Break → Learn → Rebuild → Ship
+I’m interested in **where technology creates leverage**.
 
-I care less about building technology for the sake of technology and more about finding where technology can create real leverage.
+A problem → a hypothesis → a prototype → real feedback → a better system.
 
-For me, the most interesting question isn't:
+That usually means getting hands-on: architecture, code, models, interfaces, debugging, and figuring out what actually works.
 
-“Can we build this?
-
-It's:
-
-“What happens if we actually do?”
 
 ---
 
-# Currently Exploring
+## 🔬 Currently Exploring
 
-* AI agents & intelligent workflows
-* Applied computer vision
-* LLM-powered products
-* AI × Finance
-* AI × Automation
-* Product engineering
-* Startup ideas & experimentation
+- AI agents & autonomous workflows
+- Computer vision for real-world operations
+- LLM-powered products
+- AI × Finance
+- Intelligent automation
+- Product engineering
+- Systems & infrastructure
+- Startup ideas and rapid experimentation
+
+---
 
 ## 🤝 Let's Build
 
-I'm always interested in ambitious ideas, interesting problems, hackathons, startups, collaborations, and people who want to build something that matters.
+I'm interested in **hard problems, ambitious products, hackathons, startups, and people who build instead of just talk about building.**
 
-If you're building something interesting, let's talk.
+If you're working on something interesting:
+
+**→ [Connect with me on LinkedIn](https://www.linkedin.com/in/saikrish2004/)**
 
 ---
 
-Build things. Break assumptions. Ship what matters.
+### ⚙️ Build things. Break assumptions. Ship what matters.
